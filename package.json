@@ -1,0 +1,15 @@
+{
+  "name": "csrf-form-web-app",
+  "version": "1.0.0",
+  "description": "A simple web app in node.js to test the CORS configuration of other web apps.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Felipe Michels Fontoura <felipe.mfontoura@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "escape-html": "^1.0.3",
+    "express": "^4.18.2"
+  }
+}
