@@ -1,4 +1,5 @@
 {
     "targetUrl": "http://foo.bar/form",
-    "httpMethod": "POST"
+    "httpMethod": "POST",
+    "port": "3000"
 }
